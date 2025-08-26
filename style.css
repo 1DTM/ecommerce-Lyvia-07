@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+  }
+  .menu {
+    background-color: #00aeff;
+    text-align: center;
+    padding: 20px;
+    color: #181818;
+    font-family: "Montserrat";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+  
+  h1 {
+    color: #181818;
+    font-family: "Montserrat";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+  }
+  
+  section {
+    background-image: url("Group\ 19.png");
+  
+    height: 378px;
+    display: flex;
+    align-items: center;
+  }
+  
+  section .texto-banner {
+    margin-left: 100px;
+  }
+  
+  .destaques {
+    text-align: center;
+  }
+  
+  h2 {
+    color: #f9f9f9;
+    font-family: Montserrat;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    width: 637px;
+    margin: 0;
+  }
+  
+  section p {
+    color: #f9f9f9;
+    font-family: "Montserrat";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+  }
+  
+  h3 {
+    color: #181818;
+    font-family: "Montserrat";
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    font-style: normal;
+    align-content: center;
+  }
+  
+  main p {
+    color: #474747;
+    color: #474747;
+    text-align: center;
+    font-family: "Montserrat";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+  
+  .tenis {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .card {
+    width: 415px;
+    height: 302px;
+    background: #ebe9ea;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  footer {
+    background-color: #00aeff;
+    color: #181818;
+    font-family: "Montserrat";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 1920px;
+    height: 60px;
+    flex-shrink: 0;
+  }
+  
+  footer p {
+    background-color: #00aeff;
+    text-align: center;
+    padding: 20px;
+    color: #181818;
+    font-family: "Montserrat";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+  
